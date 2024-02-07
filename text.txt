@@ -1,0 +1,1 @@
+Here is some content for this file to use for palindrome check.
